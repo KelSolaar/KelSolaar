@@ -10,8 +10,8 @@ I'm also involved with a lot of Open Source Software projects such as the [Acade
 
 - [Email](mailto:thomas.mansencal@gmail.com)
 - [Facebook](https://www.facebook.com/thomas.mansencal)
-- [Twitter](https://twitter.com/ThomasMansencal)
 - [LinkedIn](https://www.linkedin.com/in/thomasmansencal/)
+- [Twitter](https://twitter.com/ThomasMansencal)
 - [Website](http://www.thomasmansencal.com/)
 
 ---
