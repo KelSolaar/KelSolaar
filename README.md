@@ -15,4 +15,4 @@ I'm also involved with a lot of Open Source Software projects such as the [Acade
 
 ---
 
-![Thomas's Github Stats](https://github-readme-stats.vercel.app/api?username=KelSolaar&show_icons=true&theme=dark&show_icons=true)
+![Thomas's Github Stats](https://github-readme-stats.vercel.app/api?username=KelSolaar&include_all_commits=true&show_icons=true&theme=dark)
